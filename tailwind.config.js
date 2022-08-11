@@ -6,10 +6,12 @@ module.exports = {
       varela: "Varela Round, sans-serif",
     },
     colors: {
-      primary: "#7B586B",
-      primaryText:"#fff",
-      secondary: "#1D0F0F",
-      secondaryText:"#fff"
+      primary: "#A7D1D2",
+      primaryText: "#fff",
+      secondary: "#015366",
+      secondaryText: "#fff",
+      background:"#fff",
+      backgroundText:"#111"
     },
   },
   plugins: [],
