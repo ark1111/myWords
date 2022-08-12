@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.95 81.64">
+  <g>
+    <circle cx="9.94" cy="18.49" r="7.48" fill="#05060d"/>
+    <circle cx="9.94" cy="41.47" r="7.48" fill="#05060d"/>
+    <circle cx="9.94" cy="64.45" r="7.48" fill="#05060d"/>
+    <circle cx="32.39" cy="41.47" r="7.48" fill="#05060d"/>
+    <circle cx="32.39" cy="64.45" r="7.48" fill="#05060d"/>
+    <circle cx="54.84" cy="64.45" r="7.48" fill="#05060d"/>
+  </g>
+  <g>
+    <line x1="73.69" y1="70.57" x2="134.62" y2="70.57" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="64.11" x2="134.62" y2="64.11" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="57.64" x2="134.62" y2="57.64" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="51.17" x2="134.62" y2="51.17" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="44.7" x2="134.62" y2="44.7" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="38.23" x2="134.62" y2="38.23" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="31.77" x2="134.62" y2="31.77" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="25.3" x2="134.62" y2="25.3" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="18.83" x2="134.62" y2="18.83" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+    <line x1="73.69" y1="12.36" x2="134.62" y2="12.36" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <circle cx="173.64" cy="41.47" r="22.98" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+    <circle cx="173.64" cy="41.47" r="17.31" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  </g>
+</svg>

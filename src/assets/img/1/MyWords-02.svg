@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.64 81.64">
+  <text transform="translate(42.87 51.22)" font-size="36" fill="#1d1d1b" font-family="LucidaHandwriting-Italic, Lucida Handwriting" font-style="italic">MyWords</text>
+  <g>
+    <circle cx="19.13" cy="49.9" r="6.71" fill="#035366"/>
+    <g>
+      <circle cx="29.97" cy="31.74" r="6.71" fill="#035366"/>
+      <circle cx="8.29" cy="31.74" r="6.71" fill="#035366"/>
+    </g>
+  </g>
+  <rect x="242.1" y="29.65" width="22.33" height="22.33" transform="translate(45.32 191.04) rotate(-45)" fill="#035366"/>
+</svg>

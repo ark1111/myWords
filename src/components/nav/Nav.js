@@ -1,6 +1,7 @@
 
 
-import React from 'react'
+import React from 'react';
+import logo from "../../assets/img/1/MyWords-02.svg";
 
 let items = [
   {
@@ -22,8 +23,8 @@ let items = [
 const Nav = () => {
   return (
     <div className="w-full h-24 flex items-center justify-between px-20">
-      <div className="w-32 text-2xl font-bold text-left cursor-pointer font-varela">
-        MyWords
+      <div className="w-40 text-2xl font-bold text-left cursor-pointer font-varela">
+        <img src={logo} alt="logo" className='w-full' />
       </div>
       <div className="flex items-center gap-x-10">
         {items.map((item, index) => (
@@ -32,7 +33,7 @@ const Nav = () => {
           </div>
         ))}
       </div>
-      <div className="w-32 h-12 rounded-full flex items-center justify-center text-lg text-center font-medium border cursor-pointer font-varela hover:bg-secondary hover:text-secondaryText">
+      <div className="w-40 h-12 rounded-full flex items-center justify-center text-lg text-center font-medium border cursor-pointer font-varela hover:bg-secondary hover:text-secondaryText">
         login
       </div>
     </div>
