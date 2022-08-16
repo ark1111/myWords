@@ -3,6 +3,7 @@
 import React from 'react'
 import img1 from "../../../assets/img/1/MyWords-03.svg";
 import img2 from "../../../assets/img/1/MyWords-04.svg";
+import img3 from "../../../assets/img/1/MyWords-05.svg";
 
 const Banner = () => {
   return (
@@ -30,6 +31,11 @@ const Banner = () => {
           src={img2}
           alt="banner-img"
           className="w-60 absolute bottom-[20%] right-[-110px] rotate-90"
+        />
+        <img
+          src={img3}
+          alt="banner-img"
+          className="w-44 absolute bottom-[-20px] left-[15%] rotate-90"
         />
       </div>
     </div>
