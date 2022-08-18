@@ -4,6 +4,7 @@ import React from 'react'
 import img1 from "../../../assets/img/1/MyWords-03.svg";
 import img2 from "../../../assets/img/1/MyWords-04.svg";
 import img3 from "../../../assets/img/1/MyWords-05.svg";
+import img4 from "../../../assets/img/1/MyWords-08.svg";
 
 const Banner = () => {
   return (
@@ -36,6 +37,11 @@ const Banner = () => {
           src={img3}
           alt="banner-img"
           className="w-44 absolute bottom-[-20px] left-[15%] rotate-90"
+        />
+        <img
+          src={img4}
+          alt="banner-img"
+          className="w-52 absolute top-[40px] right-[25%] rotate-45"
         />
       </div>
     </div>
