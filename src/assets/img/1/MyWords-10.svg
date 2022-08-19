@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 119 120.26">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="-318.57" y="-223.76" width="129.63" height="64.15" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="-188.93" y="-223.76" width="129.63" height="64.15" fill="none"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect x="-202.15" y="-133.9" width="134.3" height="72.51" fill="none"/>
+    </clipPath>
+    <image id="image" width="3101" height="4462" xlink:href="C:\Users\User\Downloads\kiwihug-MS9Tnh3if1o-unsplash.jpg"/>
+  </defs>
+  <g clip-path="url(#clippath)">
+    <use transform="translate(-365.33 -322.84) scale(.12)" xlink:href="#image"/>
+  </g>
+  <g clip-path="url(#clippath-1)">
+    <use transform="translate(-235.7 -322.84) scale(.12)" xlink:href="#image"/>
+  </g>
+  <g clip-path="url(#clippath-2)">
+    <use transform="translate(-250.6 -245.89) scale(.13 .14)" xlink:href="#image"/>
+  </g>
+  <line x1="101.83" y1="63.83" x2="92.52" y2="73.54" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="63.83" x2="101.83" y2="73.54" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="118.39" y1="63.83" x2="109.08" y2="73.54" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="109.08" y1="63.83" x2="118.39" y2="73.54" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="101.83" y1="109.24" x2="92.52" y2="118.95" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="109.24" x2="101.83" y2="118.95" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="118.39" y1="109.24" x2="109.08" y2="118.95" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="109.08" y1="109.24" x2="118.39" y2="118.95" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="101.83" y1="86.53" x2="92.52" y2="96.24" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="86.53" x2="101.83" y2="96.24" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="118.39" y1="86.53" x2="109.08" y2="96.24" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="109.08" y1="86.53" x2="118.39" y2="96.24" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="101.83" y1="75.18" x2="92.52" y2="84.89" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="75.18" x2="101.83" y2="84.89" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="118.39" y1="75.18" x2="109.08" y2="84.89" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="109.08" y1="75.18" x2="118.39" y2="84.89" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="101.83" y1="97.89" x2="92.52" y2="107.59" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="97.89" x2="101.83" y2="107.59" fill="#fff" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="118.39" y1="97.89" x2="109.08" y2="107.59" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1="109.08" y1="97.89" x2="118.39" y2="107.59" fill="none" stroke="#035366" stroke-miterlimit="10"/>
+  <line x1=".95" y1="1.5" x2=".95" y2="118.95" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="9.46" y1="1.5" x2="9.46" y2="118.95" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="17.97" y1="1.5" x2="17.97" y2="118.95" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="38.53" cy="10.86" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="77" cy="10.86" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="57.77" cy="10.86" r="3.74" fill="#035366"/>
+  <circle cx="38.53" cy="109.59" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="77" cy="109.59" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="57.77" cy="109.59" r="3.74" fill="#035366"/>
+  <circle cx="38.53" cy="57.41" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="77" cy="57.41" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="57.77" cy="34.14" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="57.77" cy="83.5" r="9.36" fill="none" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <circle cx="57.77" cy="57.41" r="3.74" fill="#035366"/>
+  <circle cx="77" cy="34.14" r="3.74" fill="#035366"/>
+  <circle cx="38.53" cy="34.14" r="3.74" fill="#035366"/>
+  <circle cx="77" cy="83.5" r="3.74" fill="#035366"/>
+  <circle cx="38.53" cy="83.5" r="3.74" fill="#035366"/>
+  <line x1="92.52" y1="7.12" x2="118.39" y2="7.12" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="12.73" x2="118.39" y2="12.73" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="18.35" x2="118.39" y2="18.35" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="23.97" x2="118.39" y2="23.97" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="29.59" x2="118.39" y2="29.59" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="35.2" x2="118.39" y2="35.2" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="40.82" x2="118.39" y2="40.82" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="46.44" x2="118.39" y2="46.44" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="52.05" x2="118.39" y2="52.05" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+  <line x1="92.52" y1="57.67" x2="118.39" y2="57.67" fill="#1d1d1b" stroke="#1d1d1b" stroke-miterlimit="10"/>
+</svg>

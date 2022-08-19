@@ -4,7 +4,7 @@ import Home from "./view/home";
 
 function App() {
   return (
-    <div className="App w-screen h-screen">
+    <div className="App w-screen h-screen overflow-x-hidden">
       <BrowserRouter>
         <Nav />
         <Routes>

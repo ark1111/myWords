@@ -38,11 +38,9 @@ const Nav = () => {
         ))}
       </div>
       {/* ----simple------------------ */}
-      {/* <div className="w-40 h-12 rounded-full flex items-center justify-center text-lg text-center font-medium border cursor-pointer font-varela hover:bg-secondary hover:text-secondaryText">
+      <div className="w-40 h-12 rounded-full flex items-center justify-center text-lg text-center font-medium border cursor-pointer font-varela hover:bg-secondary hover:text-secondaryText">
         login
-      </div> */}
-      {/* ----------Button1------------ */}
-      <Button1 />
+      </div>
     </div>
   );
 }
